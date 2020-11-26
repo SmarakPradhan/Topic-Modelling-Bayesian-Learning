@@ -49,6 +49,8 @@ We cannot find out the exact answers to the first is a fair coin.So, we see freq
  <span style="text-decoration:underline;">Resources:</span>
 
 [Python Implementation of LDA](https://colab.research.google.com/drive/16wWtsr4mBkQu-haAvXfrEokVBePrVqxV?usp=sharing)
+
+
 [Python Implementation of Naive Bayes]()
 
                 	
