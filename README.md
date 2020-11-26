@@ -2,7 +2,7 @@
 
 
 
-<h2> BAYESIAN LEARNING</h2>
+<h2> BAYESIAN LEARNING</h2>(https://docs.google.com/document/d/1RTMat4DHvvAurDg_bFXoxL8oUjQqEtx83jDjaYFwk4g/edit?usp=sharing)
 
 
 <h2>What is Bayesian Learning ?</h2>
