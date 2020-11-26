@@ -3,7 +3,7 @@
 
 
 <h2> BAYESIAN LEARNING</h2>(https://docs.google.com/document/d/1RTMat4DHvvAurDg_bFXoxL8oUjQqEtx83jDjaYFwk4g/edit?usp=sharing)
-
+[TOC]
 
 <h2>What is Bayesian Learning ?</h2>
 
@@ -48,8 +48,8 @@ We cannot find out the exact answers to the first is a fair coin.So, we see freq
 
  <span style="text-decoration:underline;">Resources:</span>
 
-[Python Implementation](https://colab.research.google.com/drive/16wWtsr4mBkQu-haAvXfrEokVBePrVqxV?usp=sharing)
-
+[Python Implementation of LDA](https://colab.research.google.com/drive/16wWtsr4mBkQu-haAvXfrEokVBePrVqxV?usp=sharing)
+[Python Implementation of Naive Bayes]()
 
                 	
 
